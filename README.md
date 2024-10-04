@@ -1,4 +1,4 @@
-# Ch2.2
+# Module 02
 # Exercise: Git Diff - Determine the Changes Made to Staged Files
 
 ## Step 1
